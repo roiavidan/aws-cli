@@ -5,5 +5,6 @@ This image provides the [AWS CLI](https://aws.amazon.com/cli/) v1.16.262 command
 # Usage
 
 ```bash
-$ docker run --rm -t roiavidan/aws-cli ...
+$ docker run --rm -t \
+  roiavidan/aws-cli ...
 ```
